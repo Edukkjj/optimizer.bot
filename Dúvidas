@@ -1,4 +1,4 @@
-O arquivo main.py é um bot desenvolvido para otimizar as configurações do Windows 11. Ele realiza ajustes nas seguintes áreas:
+O arquivo Bot_config.py é um bot desenvolvido para otimizar as configurações do Windows 11. Ele realiza ajustes nas seguintes áreas:
 
 Notificações;
 Energia e Bateria;
@@ -12,7 +12,7 @@ Teclas de Aderência;
 Atualização de drivers via Windows Update.
 E outras opcões nas configurações...
 
-Nota importante: O main.py não prejudica a integridade do sistema operacional.
+Nota importante: O Bot_config.py não prejudica a integridade do sistema operacional.
 Ele apenas ajusta configurações nativas do Windows 11 para melhorar a experiência do usuário.
 
 **O bot funciona somente com sistema operacional em Português (Brasil)**
